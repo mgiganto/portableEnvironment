@@ -1,0 +1,4 @@
+Get zsh:
+git clone git://git.code.sf.net/p/zsh/code
+
+
