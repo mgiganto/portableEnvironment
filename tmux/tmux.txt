@@ -1,0 +1,10 @@
+Split screen vertically: Ctrlb and Shift5 (shift5=%)
+Split screen horizontally: Ctrlb and Shift" (shift2=")
+Toggle between panes: Ctrlb and o
+Close current pane: Ctrlb and x
+You can achieve more complex layouts by splitting panes. You can also have multiple windows with panes and switch between them.
+
+Create windows: Ctrlb and c
+Switch to next window: Ctrlb and n
+Switch to previous window: Ctrlb and p
+Destroy current window: Ctrlb and Shift7  (shift7=&)

@@ -1,0 +1,5 @@
+#VIM CONFIG
+export VIMINIT='source $MYVIMRC'
+export MYVIMRC=~/portableEnvironment/vim/.vimrc
+
+
