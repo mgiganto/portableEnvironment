@@ -35,7 +35,8 @@ Plug 'ctrlpvim/ctrlp.vim'
 "string to files in your project, most-recently-used (mru) list, and more.
 "Pressing ctrl + p opens up an intuitive interface that lists matching files
 "as you type
-Plug 'Valloric/YouCompleteMe' 
+
+"Plug 'Valloric/YouCompleteMe' 
 "A feature found in large IDE's that many beginners miss when transitioning to
 "vim is autocomplete. YouCompleteMe provides that feature, with support for
 "many languages.

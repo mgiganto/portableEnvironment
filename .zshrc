@@ -46,7 +46,9 @@ setopt ZLE
 setopt NO_HUP
 
 # only fools wouldn't do this ;-)
-export EDITOR="subl -n -w"
+#export EDITOR="subl -n -w"
+export VISUAL="vim"
+export EDITOR="$VISUAL"
 
 setopt IGNORE_EOF
 
